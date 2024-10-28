@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=es111111&fontSize=90)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=6000&pause=2000&multiline=true&random=true&width=435&height=60&lines=I+am+a+backend+developer+!+!;Seeking+new+challenges+and+Values!)](https://git.io/typing-svg)
+
